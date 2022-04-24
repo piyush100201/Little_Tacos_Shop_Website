@@ -1,0 +1,18 @@
+table{
+  width:200px;
+}
+td{
+  border : 1px solid black;
+  text-align:center;
+}
+.la
+{
+  text-align:left;
+}
+.ra
+{
+  text-align:right;
+}
+figure{
+  margin-left: 20px;
+}
